@@ -1,3 +1,9 @@
 [submodule "LB_TASK4"]
 	path = LB_TASK4
 	url = https://github.com/Max2772/LB_TASK4.git
+[submodule "LB_TASK5"]
+	path = LB_TASK5
+	url = https://github.com/Max2772/LB_TASK5.git
+[submodule "LB_TASK6"]
+	path = LB_TASK6
+	url = https://github.com/Max2772/LB_TASK6.git
